@@ -42,7 +42,7 @@ Outcome (Diabetic or Not)
 
 Clone the repository:
 
-git clone https://github.com/nishantCodes123/diabetes-prediction.git
+git clone: https://github.com/nishantCodes123/DiabetesPredictionModel.git
 
 Install required dependencies:
 
